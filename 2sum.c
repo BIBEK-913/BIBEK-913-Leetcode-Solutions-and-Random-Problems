@@ -41,3 +41,5 @@ bool isSameAfterReversals(int n)
     }
     return rev2 == temp;
 }
+
+//test 
